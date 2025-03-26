@@ -12,5 +12,6 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 # my_web3NFT-hardhat
-暂实现核心功能
+
+暂只实现核心功能-上架-购买-下架
 ![image](https://github.com/user-attachments/assets/a03e9e87-edc8-41f0-b9d4-92723ee2dd89)
