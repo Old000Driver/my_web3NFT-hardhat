@@ -11,7 +11,10 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
-# my_web3NFT-hardhat
+# NFT Market DApp
+
+这是一个基于 Next.js 的去中心化应用程序 (DApp)，用于 NFT 市场的开发。
 
 暂只实现核心功能-上架-购买-下架
+
 ![image](https://github.com/user-attachments/assets/a03e9e87-edc8-41f0-b9d4-92723ee2dd89)
